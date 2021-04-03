@@ -1,0 +1,43 @@
+/* colors */
+
+
+/* Universal Themes */
+html, body {
+    height: 100%;
+}
+html {
+    background-color: lightgray;
+}
+
+h1 {
+    color: #353535;
+}
+
+.headshot {
+    height: 300px;
+    width: auto;
+}
+
+.table-general {
+    border-collapse: collapse;
+    border-spacing: 10;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+td {
+    padding: 3px;
+}
+
+thead {
+    background-color: indianred;
+}
+
+
+tr:nth-child(even) {
+    background-color: grey;
+}
+
+.aboutme {
+    max-width: 1200px;
+}

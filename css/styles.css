@@ -22,7 +22,18 @@ div, nav, footer {
 }
 
 hr {
+  border-color: grey;
+  border: thick;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 15%;
+  margin: 20px auto;
   color: #4e3620;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #897853;
+  text-decoration: underline;
 }
 
 /*  */
